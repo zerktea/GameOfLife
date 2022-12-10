@@ -1,0 +1,5 @@
+Simulate the evolution ofGame of Lifeon computer. 
+In particular•
+the grid should consist of at least30 rowsand50 columns•
+get theinitial configurationof the gridfrom the user•assumeperiodic boundary conditions•
+it is recommended to present the results graphically (animation).
